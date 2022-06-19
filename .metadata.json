@@ -1,0 +1,10 @@
+[
+  {
+    "package": "crseEventStudy",
+    "oncran": true
+  },
+  {
+    "package": "monotonicity",
+    "oncran": true
+  }
+]
