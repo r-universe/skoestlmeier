@@ -4,7 +4,15 @@
     "oncran": true
   },
   {
+    "package": "ICSS",
+    "oncran": true
+  },
+  {
     "package": "monotonicity",
+    "oncran": true
+  },
+  {
+    "package": "qrandom",
     "oncran": true
   }
 ]

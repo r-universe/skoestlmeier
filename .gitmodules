@@ -8,8 +8,18 @@
 	url = https://github.com/skoestlmeier/crseeventstudy
 	shallow = true
 	registered = true
+[submodule "ICSS"]
+	path = ICSS
+	url = https://github.com/skoestlmeier/icss
+	shallow = true
+	registered = true
 [submodule "monotonicity"]
 	path = monotonicity
 	url = https://github.com/skoestlmeier/monotonicity
+	shallow = true
+	registered = true
+[submodule "qrandom"]
+	path = qrandom
+	url = https://github.com/skoestlmeier/qrandom
 	shallow = true
 	registered = true
