@@ -18,8 +18,3 @@
 	url = https://github.com/skoestlmeier/monotonicity
 	shallow = true
 	registered = true
-[submodule "qrandom"]
-	path = qrandom
-	url = https://github.com/skoestlmeier/qrandom
-	shallow = true
-	registered = true
