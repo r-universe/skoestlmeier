@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "crseEventStudy"]
-	path = crseEventStudy
-	url = https://github.com/skoestlmeier/crseeventstudy
 [submodule "ICSS"]
 	path = ICSS
 	url = https://github.com/skoestlmeier/icss
+[submodule "crseEventStudy"]
+	path = crseEventStudy
+	url = https://github.com/skoestlmeier/crseeventstudy
 [submodule "monotonicity"]
 	path = monotonicity
 	url = https://github.com/skoestlmeier/monotonicity
